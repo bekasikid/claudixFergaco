@@ -1,0 +1,14 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-08-20 08:34:12 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer zlib output compression /home/rizky/fergaco/application/libraries/grocery_crud.php 1809
+ERROR - 2014-08-20 08:34:13 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer zlib output compression /home/rizky/fergaco/application/libraries/grocery_crud.php 1776
+ERROR - 2014-08-20 08:40:57 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer zlib output compression /home/rizky/fergaco/application/libraries/grocery_crud.php 1809
+ERROR - 2014-08-20 08:40:58 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer zlib output compression /home/rizky/fergaco/application/libraries/grocery_crud.php 1776
+ERROR - 2014-08-20 13:08:33 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer zlib output compression /home/rizky/fergaco/application/libraries/grocery_crud.php 1809
+ERROR - 2014-08-20 13:08:34 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer zlib output compression /home/rizky/fergaco/application/libraries/grocery_crud.php 1776
+ERROR - 2014-08-20 17:05:02 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer zlib output compression /home/rizky/fergaco/application/libraries/grocery_crud.php 1809
+ERROR - 2014-08-20 17:05:03 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer zlib output compression /home/rizky/fergaco/application/libraries/grocery_crud.php 1776
+ERROR - 2014-08-20 17:52:48 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer zlib output compression /home/rizky/fergaco/application/libraries/grocery_crud.php 1809
+ERROR - 2014-08-20 17:52:49 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer zlib output compression /home/rizky/fergaco/application/libraries/grocery_crud.php 1776
+ERROR - 2014-08-20 18:03:19 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer zlib output compression /home/rizky/fergaco/application/libraries/grocery_crud.php 1809
+ERROR - 2014-08-20 18:03:20 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer zlib output compression /home/rizky/fergaco/application/libraries/grocery_crud.php 1776

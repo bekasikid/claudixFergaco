@@ -1,0 +1,15 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-10-28 08:03:35 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /home/rizky/fergaco/application/libraries/grocery_crud.php 1809
+ERROR - 2013-10-28 08:03:36 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /home/rizky/fergaco/application/libraries/grocery_crud.php 1776
+ERROR - 2013-10-28 08:14:45 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /home/rizky/fergaco/application/libraries/grocery_crud.php 1809
+ERROR - 2013-10-28 08:14:45 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /home/rizky/fergaco/application/libraries/grocery_crud.php 1776
+ERROR - 2013-10-28 08:29:28 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /home/rizky/fergaco/application/libraries/grocery_crud.php 1809
+ERROR - 2013-10-28 08:29:28 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /home/rizky/fergaco/application/libraries/grocery_crud.php 1776
+ERROR - 2013-10-28 18:17:15 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /home/rizky/fergaco/application/libraries/grocery_crud.php 1809
+ERROR - 2013-10-28 18:17:16 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /home/rizky/fergaco/application/libraries/grocery_crud.php 1776
+ERROR - 2013-10-28 18:22:04 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /home/rizky/fergaco/application/libraries/grocery_crud.php 1809
+ERROR - 2013-10-28 18:22:13 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /home/rizky/fergaco/application/libraries/grocery_crud.php 1809
+ERROR - 2013-10-28 18:22:13 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /home/rizky/fergaco/application/libraries/grocery_crud.php 1776
+ERROR - 2013-10-28 19:02:41 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /home/rizky/fergaco/application/libraries/grocery_crud.php 1809
+ERROR - 2013-10-28 19:02:42 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /home/rizky/fergaco/application/libraries/grocery_crud.php 1776
